@@ -1,4 +1,3 @@
-# MouseAndKeyboardPerfomance
 # 🖱️⌨️ Mouse And Keyboard Performance Test
 
 A lightweight Windows batch utility that provides quick access to online tools for testing **mouse and keyboard performance**.
