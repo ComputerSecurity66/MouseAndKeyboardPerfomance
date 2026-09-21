@@ -173,11 +173,18 @@ This project is an independent utility and is **not affiliated with, sponsored b
 
 The external websites may change their URLs, features, availability, or policies at any time.
 
-## 📜 License
+## License
 
-This project is provided for personal, educational, and technical use.
+**Computer Security Latest Proprietary License**
+**Copyright © 2026 VALOR. All Rights Reserved.**
 
-If you add a specific open-source license to this repository, replace this section with the terms of that license.
+This project is proprietary software and is not open source.
+
+Use, copying, modification, redistribution, publication, sublicensing,
+commercial use, and creation of derivative works are prohibited unless
+explicitly authorized in writing by the copyright holder.
+
+See the `LICENSE` file for the complete license terms.
 
 ## 👨‍💻 Author
 
